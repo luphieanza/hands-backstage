@@ -1,0 +1,8 @@
+site_name: "hands-on"
+site_description: "Hands on intro"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
